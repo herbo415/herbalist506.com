@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://herbalist506.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://herbalist506.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://herbalist506.com/collections/bongs.atom"/>
+  <title>Smoke Shop</title>
+  <updated>2023-06-26T14:02:37-06:00</updated>
+  <author>
+    <name>Smoke Shop</name>
+  </author>
+  <entry>
+    <id>https://herbalist506.com/products/8350339432738</id>
+    <published>2023-06-26T14:02:37-06:00</published>
+    <updated>2023-06-26T14:02:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/science-perc-bong"/>
+    <title>SCIENCE PERC BONG</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/files/0V4A8398.jpg?v=1687809759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            47000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">🔬 Bong de 10"<br data-mce-fragment="1"><br data-mce-fragment="1">🔬 Percolador<br data-mce-fragment="1"><br data-mce-fragment="1">🔬 Fácil de usar<br data-mce-fragment="1"><br data-mce-fragment="1">🔬 Vidrio grueso<br data-mce-fragment="1"><br data-mce-fragment="1">🔬 Se puede utilizar como equipo para dabs<br data-mce-fragment="1"><br data-mce-fragment="1">🔬 Incluye bowl y banger</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8350339432738</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">47000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8202711826722</id>
+    <published>2023-03-31T17:16:29-06:00</published>
+    <updated>2023-03-31T17:16:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/bong-mini-headway-traveler"/>
+    <title>Bong Mini Headway Traveler</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/headway-designs-acrylic-straight-tube-bong-28733316169811_600x600_bbcc7e72-f7c7-47f5-97ef-2913a7e65024.jpg?v=1680304591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            12000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Este bong de tubo recto hecho de acrílico de Headway Designs es la adición perfecta a la línea de cualquier fumador. Perfecto para sesiones de humo rapidas, esta pieza es imprescindible para todos los fumadores con experiencia. Disponible en alturas perfectamente compactas de ocho, diez o doce pulgadas, este bong es ideal para cualquier persona, desde un nuevo fumador hasta expertos veteranos experimentados. Además de brindar hits de primera calidad, también se desmonta fácilmente para una limpieza y un mantenimiento simples y efectivos.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8202711826722</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">12000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8202447487266</id>
+    <published>2023-03-31T15:09:03-06:00</published>
+    <updated>2023-03-31T15:09:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/soplete-encendedor-recargable"/>
+    <title>Soplete Encendedor recargable</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/84261-G1-Special_Blue_Bernie_Mini_Pocket_Torch_Plastic_Butane_Small_Lock_Flame_Adjust-Cheap_Online_Smokeshop__08185.jpg?v=1680296944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            9000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8202447487266</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">9000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8201039839522</id>
+    <published>2023-03-30T19:04:36-06:00</published>
+    <updated>2023-03-30T19:04:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/perc-bong-cuadruple-de-medusas-53cm"/>
+    <title>PERC BONG CUÁDRUPLE DE MEDUSAS - 53CM</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/the-quadruple-jelly-fish-perc-21in-29550845198415.jpg?v=1680224678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            65000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8201039839522</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">65000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8200976236834</id>
+    <published>2023-03-30T18:37:01-06:00</published>
+    <updated>2023-03-30T18:37:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/bong-de-unicornio"/>
+    <title>Bong de Unicornio</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/rainbow-unicorn-bong-13-in-28166082232399.jpg?v=1680223022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            58000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Incluye:</strong></p>
+<p>🌈 Bowl de 14 mm<br><br>🌈 Banger de 14 mm<br><br>🌈 Hermoso unicornio místico<br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8200976236834</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">58000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8200962900258</id>
+    <published>2023-03-30T18:28:04-06:00</published>
+    <updated>2023-03-30T18:28:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/hongo-levels-bong-55cm"/>
+    <title>Hongo Levels Bong - 40cm</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/h20-21-lake-green_1024x1024_2x_af6c5d84-aa70-4dfa-9359-064cc073a0f1.jpg?v=1680222485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            59000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8200962900258</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">59000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8200955461922</id>
+    <published>2023-03-30T18:23:27-06:00</published>
+    <updated>2023-03-30T18:23:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/rick-and-morty-bong"/>
+    <title>Rick and Morty Bong</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/WhatsAppImage2022-11-14at3.55.07PM.jpg?v=1680222209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            24000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8200955461922</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">24000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8200949530914</id>
+    <published>2023-03-30T18:19:36-06:00</published>
+    <updated>2023-03-30T18:19:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/monster-bong"/>
+    <title>Monster Bong</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/barnacle-sludge-monster-bong-13in-32698946027599.jpg?v=1680221988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            57000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8200949530914</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">57000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8198321537314</id>
+    <published>2023-03-29T15:52:39-06:00</published>
+    <updated>2023-03-29T15:52:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/bong-de-silicon-baby-yoda"/>
+    <title>BONG DE SILICON BABY YODA</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/CapturadePantalla2022-01-28ala_s_5.03.30p.m..png?v=1680126761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            28000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Adorable es poco para el nuevo </span><strong>bong de silicona Baby Yoda</strong><span> que por fin llega al catálogo de Herbalist Smoke Shop para enternecer al más duro. Este bong de</span><strong><span> </span>silicona</strong><span> se puede desmontar, facilitando su limpieza, y mide </span><strong>13cm</strong><span>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8198321537314</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">28000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8198314328354</id>
+    <published>2023-03-29T15:40:59-06:00</published>
+    <updated>2023-03-29T15:40:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/banger-14mm"/>
+    <title>Banger 14mm</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/bong-parts-quartz-male-glass-banger-90-degrees-36602577813740_1200x1200_6876bf7c-fa98-4be4-ada4-49205a03f012.jpg?v=1680126060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            7000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8198314328354</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">7000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8197438767394</id>
+    <published>2023-03-28T23:49:47-06:00</published>
+    <updated>2023-03-28T23:49:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/silicone-bowl"/>
+    <title>Silicone Bowl</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/the-unibowl-silicone-bowl_720x.progressive_b2f285cc-c20c-45ae-b05e-753181f1e05b.jpg?v=1680069179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            7000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8197438767394</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">7000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8197430346018</id>
+    <published>2023-03-28T23:47:40-06:00</published>
+    <updated>2023-03-28T23:47:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/bowl-de-14mm"/>
+    <title>Bowl de 14mm</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/simple-clear-male-bong-bowl-bowl-volcanee-105966.jpg?v=1680068861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            5950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8197430346018</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">5950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8197394071842</id>
+    <published>2023-03-28T23:38:26-06:00</published>
+    <updated>2023-03-28T23:38:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/silicone-fortress-bong-1"/>
+    <title>SILICONE FORTRESS BONG</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/silicone-fortress-bong-3-5in-29119901139023.jpg?v=1680068307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            26000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>😊 Mini bong<br><br>😊 Hecho de silicona<br><br>😊 Incluye bowl de 14mm<br><br>😊 Se puede usar como equipo para dab</p>
+<p><span data-mce-fragment="1">😊 B</span>anger de 14 mm incluido<br><br>😊 Percolador para filtración adicional<br><br>😊 Boquilla en ángulo para inhalar fácilmente<br><br>😊 Parte inferior plana para soporte adicional</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8197394071842</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">26000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8197367726370</id>
+    <published>2023-03-28T23:32:19-06:00</published>
+    <updated>2023-03-28T23:32:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/smoke-buddy"/>
+    <title>Smoke Buddy</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/91v-VCjcTCL.jpg?v=1680067940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            22650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Elimina el humo</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Elimina el olor</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Alta calidad</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Ideal para el hogar, oficina, coche y viajes</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Llavero gratis. ! !</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8197367726370</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">22650.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8191006048546</id>
+    <published>2023-03-25T16:38:43-06:00</published>
+    <updated>2023-03-25T16:38:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/perc-straight-tube-bong"/>
+    <title>PERC STRAIGHT TUBE BONG</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/CopyofCopyofInfographicsforsmokeshop_6_1.png?v=1679783924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            65000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">55 centímetros de alto</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8191006048546</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">65000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8191005753634</id>
+    <published>2023-03-25T16:37:13-06:00</published>
+    <updated>2023-03-25T16:37:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/perc-pink-bong"/>
+    <title>Perc Pink Bong</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/perc-bong-05-a-500x500.jpg?v=1679783834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            25000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8191005753634</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">25000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8191005589794</id>
+    <published>2023-03-25T16:36:16-06:00</published>
+    <updated>2023-03-25T16:36:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/hive-perc-mini-bong"/>
+    <title>HIVE PERC MINI BONG</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/hive-perc-mini-bong-6-5in-15972490870863_2000x_cca86473-bf5f-4ecc-a1cb-9fdc3757f232.jpg?v=1679783778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            18000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8191005589794</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">18000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8191005425954</id>
+    <published>2023-03-25T16:35:35-06:00</published>
+    <updated>2023-03-25T16:35:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/neck-perc-bong"/>
+    <title>NECK PERC BONG</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/3035_v24-0065_1.jpg?v=1679783736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            24000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8191005425954</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">24000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8191005294882</id>
+    <published>2023-03-25T16:34:04-06:00</published>
+    <updated>2023-03-25T16:34:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/chromoly-beaker-bong"/>
+    <title>CHROMOLY BEAKER BONG</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/chromoly-beaker-16108701155407_400x_0dd30443-ed89-4dc8-90f2-8fce03b704e5.jpg?v=1679783645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            25000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8191005294882</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">25000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8191005032738</id>
+    <published>2023-03-25T16:32:21-06:00</published>
+    <updated>2023-03-25T16:32:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/nargila"/>
+    <title>NARGILA</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/narguile.jpg?v=1679783543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            39000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8191005032738</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">39000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8191004442914</id>
+    <published>2023-03-25T16:31:16-06:00</published>
+    <updated>2023-03-25T16:31:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/honeycomb-bong"/>
+    <title>HONEYCOMB BONG</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/s-l400.jpg?v=1679783477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            26000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8191004442914</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">26000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8183039754530</id>
+    <published>2023-03-21T20:41:11-06:00</published>
+    <updated>2023-03-21T20:41:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/beaker-ice-bong-tornasol"/>
+    <title>Beaker Ice Bong Tornasol</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/8GradientBeakerBong_1_1044x_ba6b6626-0a93-4188-982c-d84077e2f5ef.png?v=1679452873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            24000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8183039754530</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">24000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8163488530722</id>
+    <published>2023-03-14T11:17:01-06:00</published>
+    <updated>2023-03-14T11:17:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/silicone-beaker-bong"/>
+    <title>SILICONE BEAKER BONG</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/silicon-bong_f72de0f4-21c3-4acc-8c35-4655cdcbe33f.png?v=1678827739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            42000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8163488530722</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">42000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8163485810978</id>
+    <published>2023-03-14T11:15:22-06:00</published>
+    <updated>2023-03-14T11:15:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/mask-bong"/>
+    <title>Mask Bong</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/mask-bong.png?v=1678814123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            36950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8163485810978</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">36950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8163479617826</id>
+    <published>2023-03-14T11:11:17-06:00</published>
+    <updated>2023-03-14T11:11:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/perc-rasta-bong"/>
+    <title>PERC RASTA BONG</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/RastaMiniBong_5000x_bfd31938-bf40-4eda-9932-1bd7368aaf39.png?v=1678813878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            26000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8163479617826</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">26000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

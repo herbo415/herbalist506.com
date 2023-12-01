@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://herbalist506.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://herbalist506.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://herbalist506.com/collections/grinders.atom"/>
+  <title>Smoke Shop</title>
+  <updated>2023-04-07T13:15:57-06:00</updated>
+  <author>
+    <name>Smoke Shop</name>
+  </author>
+  <entry>
+    <id>https://herbalist506.com/products/8215982407970</id>
+    <published>2023-04-07T13:15:57-06:00</published>
+    <updated>2023-04-07T13:15:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/tectonic9-grinder-auto-dispensador-%E2%9A%99%EF%B8%8F-%F0%9F%94%A5%F0%9F%98%AE-%F0%9F%92%A8"/>
+    <title>Grinder Tectonic9 con auto dispensador 😲</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/Tectonic9-Gray-080321-2000-01_2000x_668056d1-bce0-4ebd-ae61-e780efe8251f.jpg?v=1680894960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            45000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>🔥 Diseñado para la portabilidad y adecuado para entornos exteriores.</p>
+<p><br><span data-mce-fragment="1">🔥 </span>Motor de vibración incorporado optimizado a la frecuencia de vibración perfecta.</p>
+<p><br><span data-mce-fragment="1">🔥 </span>Ventana de visualización con luz LED para verificar la cantidad de hierba almacenada.</p>
+<p><br><span data-mce-fragment="1">🔥 </span>La puerta dispensadora deslizable almacena de forma segura la hierba.</p>
+<p><br><span data-mce-fragment="1">🔥 </span>28 dientes para moler en forma de diamante fabricados con CNC para obtener una hierba molida perfectamente esponjosa.</p>
+<p><br><span data-mce-fragment="1">🔥 </span>Cuerpo de aleación de aluminio anodizado de grado espacial, agarre esmerilado texturizado con un elegante acabado mate.</p>
+<p><br><span data-mce-fragment="1">🔥 </span>Interfaz fácil de usar con un botón.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8215982407970</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">45000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8201160229154</id>
+    <published>2023-03-30T19:46:22-06:00</published>
+    <updated>2023-03-30T19:46:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/rim-grinder-%E2%9A%A1%E2%9A%A1"/>
+    <title>Rim Grinder 🛞</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/H46b9544e00d94fadabaad2a7e0e58a399.jpg?v=1680227183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            14000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8201160229154</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">14000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8201136374050</id>
+    <published>2023-03-30T19:39:14-06:00</published>
+    <updated>2023-03-30T19:39:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/atomic-crank-grinder"/>
+    <title>Atomic Crank Grinder</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/picadora-de-manilla.jpg?v=1680237081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            15000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8201136374050</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">15000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8201112125730</id>
+    <published>2023-03-30T19:31:16-06:00</published>
+    <updated>2023-03-30T19:31:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/backwoods-honey-grinder"/>
+    <title>Backwoods Honey Grinder</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/backwoods-grinder_7e17ff8d-05a7-4173-b849-a449f6ef8769.jpg?v=1680236517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            12000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8201112125730</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">12000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8198367379746</id>
+    <published>2023-03-29T16:45:23-06:00</published>
+    <updated>2023-03-29T16:45:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/top-star-grinder"/>
+    <title>Top Star Grinder</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/herb-grinder.jpg?v=1680129925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            9000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8198367379746</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">9000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8198313214242</id>
+    <published>2023-03-29T15:38:01-06:00</published>
+    <updated>2023-03-29T15:38:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/electric-cookies-grinder"/>
+    <title>Electric Cookies Grinder</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/f02a6e00efa85d7580d87410cee5b719_jpg_2200x2200q80_jpg.png?v=1680125883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            18500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8198313214242</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">18500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8198304858402</id>
+    <published>2023-03-29T15:23:22-06:00</published>
+    <updated>2023-03-29T15:23:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/pink-grinder-48mm"/>
+    <title>Pink Grinder - 48MM</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/0V4A7718.jpg?v=1680125193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            16000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8198304858402</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">16000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8198298173730</id>
+    <published>2023-03-29T15:11:23-06:00</published>
+    <updated>2023-03-29T15:11:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/gripped-brilliance-grinder-63mm"/>
+    <title>GRIPPED BRILLIANCE GRINDER - 63MM</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/0V4A7194.jpg?v=1680124285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            18000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">🔩 Laterales con muescas para mayor agarre<br><br>🔩 Dos colores a elegir<br><br>🔩 Grinder de cuatro piezas<br><br>🔩 Recolector de Kief<br><br>🔩 Diseño arcoíris o negro<br><br>🔩 63 mm de diámetro<br><br>🔩 Especial para trabajo pesado</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8198298173730</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">18000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8198297190690</id>
+    <published>2023-03-29T15:08:05-06:00</published>
+    <updated>2023-03-29T15:08:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/v-syndicate-black-hole-grinder"/>
+    <title>V SYNDICATE BLACK HOLE GRINDER</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/v-syndicate-sharp-shred-t-hc2-black-hole-grinder-32127882854479.jpg?v=1680124087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            18000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8198297190690</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">18000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8198287589666</id>
+    <published>2023-03-29T14:50:48-06:00</published>
+    <updated>2023-03-29T14:50:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/black-out-grinder-50mm"/>
+    <title>BLACK OUT GRINDER - 50MM</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/black-out-grinder-50mm-7426298347599.jpg?v=1680123050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            13000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8198287589666</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">13000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8198280675618</id>
+    <published>2023-03-29T14:40:01-06:00</published>
+    <updated>2023-03-29T14:40:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/2-5-rainbow-herb-grinder"/>
+    <title>2.5 Rainbow Herb Grinder</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/gr-rainbow-2.jpg?v=1680122403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            13000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8198280675618</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">13000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8198277824802</id>
+    <published>2023-03-29T14:35:30-06:00</published>
+    <updated>2023-03-29T14:35:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/grinder-cookies-negro"/>
+    <title>Grinder Cookies Negro</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/SantaCruz_Shredder_4_Piece_Small_Cookies_-_Black__19279.jpg?v=1680122132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            16000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8198277824802</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">16000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8198263341346</id>
+    <published>2023-03-29T14:22:05-06:00</published>
+    <updated>2023-03-29T14:22:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/picadora-herb-saver"/>
+    <title>Picadora Herb Saver</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/herb-saver-large-herbsaver-grinder-various-colors-available__11695.jpg?v=1680121326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            10000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Estos grinders están hechos de polipropileno de grado médico, un plástico duradero y de alta calidad que está un paso adelante de los grinders de aluminio promedio. Cada grinder Herb Saver es de 4 piezas cuenta con una tapa magnética para un cierre seguro, lo que garantiza que su hierba se almacene de forma segura en un compartimento resistente al agua y a los olores. Los dientes del Herb Saver están cubiertos contra daños con una garantía de por vida, asegurando que su hierba alcance la consistencia perfecta con cada molida.<br><br>Características de Herb Saver:<br><br>Dimensiones: 2.4" X 3.8"<br>PP de grado médico ♻<br>Tapa Magnética<br>Resistente al agua<br>Resistente a los olores<br>Dientes de molinillo de hierbas muy afilados<br>Disco de pantalla de polen con ajuste de fricción<br>Práctico rascador de polen<br>Varios colores disponibles</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8198263341346</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">10000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

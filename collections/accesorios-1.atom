@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://herbalist506.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://herbalist506.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://herbalist506.com/collections/accesorios.atom"/>
+  <title>Smoke Shop</title>
+  <updated>2023-10-23T19:15:45-06:00</updated>
+  <author>
+    <name>Smoke Shop</name>
+  </author>
+  <entry>
+    <id>https://herbalist506.com/products/8719216378146</id>
+    <published>2023-10-23T19:15:45-06:00</published>
+    <updated>2023-10-23T19:15:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/detoox-herbal-clean"/>
+    <title>Detoox Herbal Clean</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/files/f38206a2-848a-4b03-9433-2120368c4bdd.jpg?v=1698110272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            24950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">¿Buscas el mejor Detox del mercado que te deje limpio en un solo día? ¡Tu búsqueda ha terminado! Si ha estado expuesto con frecuencia a toxinas de hierba como el cannabis, de forma intencionada o no, es posible que necesite limpiarse rápidamente. Herbal Clean es una fórmula sencilla de un solo paso para limpieza y desintoxicación. Las personas con una exposición a toxinas de moderada a alta o con una masa corporal pequeña a mediana necesitan esta poderosa limpieza para la eliminación de toxinas. Bebida limpiadora y desintoxicante Herbal Clean QCarbo16 que contiene una solución desintoxicante avanzada que limpia el cuerpo eliminando las impurezas con una poderosa mezcla de ingredientes. Esta bebida está formulada con raíz de bardana, raíz de diente de león, vitamina B2 y otras vitaminas, minerales y hierbas. Esta bebida desintoxicante saludable brinda la satisfacción y confiabilidad que espera de un producto de limpieza de máxima potencia.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8719216378146</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">24950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8388327670050</id>
+    <published>2023-07-13T18:53:28-06:00</published>
+    <updated>2023-07-13T18:53:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/enroladora-raw"/>
+    <title>Enroladora RAW</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/files/1000.png?v=1689296010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            7500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Esta enroladora RAW está fabricada de<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">plástico de cáñamo ecológico</strong>. El plástico de cáñamo es un material revolucionario creado por el Dr. Pohl y popularizado por<span data-mce-fragment="1"> RAW.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8388327670050</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">7500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8350349000994</id>
+    <published>2023-06-26T14:17:05-06:00</published>
+    <updated>2023-06-26T14:17:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/pipa-de-vidrio-komodo"/>
+    <title>Pipa de vidrio Komodo</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/files/komodo-glass-pipe-4-5in-7337380118607.jpg?v=1687810627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            14950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Los agarres para los dedos de la pipa de vidrio de Komodo no solo se ven geniales, sino que también ayudan a evitar que se le caiga su hermosa pieza nueva y se rompa en mil pedazos. Con un tamaño compacto de 4,5”, esta pipa es fácil de guardar en el bolsillo y presumir en las fiestas. Entonces, si está de humor para fumar con un estilo único, ¡agregue la pipa de vidrio Komodo a su carrito hoy!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8350349000994</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">14950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8350339432738</id>
+    <published>2023-06-26T14:02:37-06:00</published>
+    <updated>2023-06-26T14:02:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/science-perc-bong"/>
+    <title>SCIENCE PERC BONG</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/files/0V4A8398.jpg?v=1687809759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            47000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">🔬 Bong de 10"<br data-mce-fragment="1"><br data-mce-fragment="1">🔬 Percolador<br data-mce-fragment="1"><br data-mce-fragment="1">🔬 Fácil de usar<br data-mce-fragment="1"><br data-mce-fragment="1">🔬 Vidrio grueso<br data-mce-fragment="1"><br data-mce-fragment="1">🔬 Se puede utilizar como equipo para dabs<br data-mce-fragment="1"><br data-mce-fragment="1">🔬 Incluye bowl y banger</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8350339432738</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">47000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8350308139298</id>
+    <published>2023-06-26T13:39:34-06:00</published>
+    <updated>2023-06-26T13:39:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/gotas-para-ojos-eye-mo"/>
+    <title>EYE-MO * Gotas para ojos</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/files/EyeMoDailyCareFormula6001PPS0.jpg?v=1687808376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            8950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em data-mce-fragment="1">EYE</em><span data-mce-fragment="1">-</span><em data-mce-fragment="1">MO</em><span data-mce-fragment="1"> alivia la irritación de los ojos causada por fumar cannabis.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8350308139298</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">8950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8249185042722</id>
+    <published>2023-04-28T11:18:52-06:00</published>
+    <updated>2023-04-28T11:18:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/yocan-evolve-1"/>
+    <title>Yocan Evolve</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/files/yocanevolved2020colors-silver.jpg?v=1682702334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            47500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Si está buscando un vaporizador portátil para fumar hierba y Wax que haga bien el trabajo, Yocan Evolve es absolutamente para usted. Este pen vaporizador utiliza una tecnología de bobina única llamada Dual Pancake Coil. Fue diseñado para garantizar una distribución eficiente pero uniforme del calor. Con este tipo de bobina, está seguro de lograr solo el mejor sabor a vapor. Con su diseño muy sigiloso, este vaporizador sorprendentemente viene con una cámara espaciosa que le permite disfrutar de una sesión de vaporización prolongada sin tener que recargar a cada momento.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8249185042722</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">47500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8233512698146</id>
+    <published>2023-04-18T17:38:37-06:00</published>
+    <updated>2023-04-18T17:38:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/oil-glass-bowl"/>
+    <title>Oil Glass Bowl</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/514tWfRgxFL._AC_SX679.jpg?v=1681861166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            11000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8233512698146</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">11000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8220017262882</id>
+    <published>2023-04-10T20:10:12-06:00</published>
+    <updated>2023-04-10T20:10:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/raw-organic-king-size"/>
+    <title>Raw Organic King Size</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/raw-organic-hemp-artesano-king-size-slim-rolling-papers-rolling-papers-war00364-1-15-esd-official-28045071384714_600x_a5feb31f-e9e9-4a3e-92b2-88cc176006dd.jpg?v=1681179014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            2500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8220017262882</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8220010381602</id>
+    <published>2023-04-10T20:03:14-06:00</published>
+    <updated>2023-04-10T20:03:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/raw-black-classic"/>
+    <title>Raw Black Classic</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/raw-black.jpg?v=1681178596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8220010381602</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8219997962530</id>
+    <published>2023-04-10T19:52:20-06:00</published>
+    <updated>2023-04-10T19:52:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/boletas-raw-king-size"/>
+    <title>Boletas Raw King Size</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/elements_king_size_wide_rolling_paper_1200x1200_c5b0fe6a-9f70-4420-b98f-20602863c23b.jpg?v=1681177941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8219997962530</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8219995537698</id>
+    <published>2023-04-10T19:49:37-06:00</published>
+    <updated>2023-04-10T19:49:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/boletas-raw-classic-con-pre-rolls"/>
+    <title>Boletas Raw Classic con Pre-rolls</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/s-l1600_4.jpg?v=1681177779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            3200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8219995537698</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">3200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8219986854178</id>
+    <published>2023-04-10T19:42:19-06:00</published>
+    <updated>2023-04-10T19:42:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/boleta-raw-classic-connoisseur-ks-slim-filtro"/>
+    <title>Boleta RAW Classic Connoisseur KS Slim + Filtro</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/raw-connoisseur-king-size-with-tips.jpg?v=1681177623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            2600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8219986854178</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">2600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8219980529954</id>
+    <published>2023-04-10T19:38:40-06:00</published>
+    <updated>2023-04-10T19:38:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/blunt-zig-zag-hemp"/>
+    <title>Blunt Zig-Zag Hemp</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/Terp-Cones-Pouch-Grand-Daddy-Purp_600x_abd3a600-ab23-4518-aadd-3b1a35b766f8.png?v=1681177121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8219980529954</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8219971879202</id>
+    <published>2023-04-10T19:33:39-06:00</published>
+    <updated>2023-04-10T19:33:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/blunt-king-palm-berry"/>
+    <title>Blunt King Palm Berry</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/berry-king-palm.jpg?v=1681176820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            2500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8219971879202</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8219960672546</id>
+    <published>2023-04-10T19:26:19-06:00</published>
+    <updated>2023-04-10T19:26:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/blunt-king-palm-mango-og"/>
+    <title>Blunt King Palm Mango OG</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/1241KingPalm2pkMini-MangoOG-up-n-smokeonlinesmokeshop_3_1200x1200_730f061d-a919-430f-a257-fdd80ce0dc12.jpg?v=1681176380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            2500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8219960672546</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8219940585762</id>
+    <published>2023-04-10T19:10:45-06:00</published>
+    <updated>2023-04-10T19:10:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/blunt-king-palm-banana-cream"/>
+    <title>Blunt King Palm Banana Cream</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/banana-cream.jpg?v=1681176084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            2500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8219940585762</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8219936456994</id>
+    <published>2023-04-10T19:07:02-06:00</published>
+    <updated>2023-04-10T19:07:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/king-palm-blunt-sandia"/>
+    <title>King Palm Blunt Sandía</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/81m1d8KsA7L.jpg?v=1681175224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            2500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8219936456994</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8219875770658</id>
+    <published>2023-04-10T18:09:01-06:00</published>
+    <updated>2023-04-10T18:09:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/bateria-yocan-lux-wulf"/>
+    <title>Batería Yocan Lux Wulf</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/yocan_-_lux_-_default.png?v=1681172921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            19900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p>Diseño de cuerpo de aleación<br>Conexión rosca 510<br>Batería de 400 mAh<br>Ajustes de temperatura<br>Precalentamiento</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8219875770658</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">19900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8219835662626</id>
+    <published>2023-04-10T17:29:23-06:00</published>
+    <updated>2023-04-10T17:29:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/bateria-yocan-kodo"/>
+    <title>Batería Yocan Kodo</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/YocanKodoBoxModGreenBlackSpatter.jpg?v=1681169365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            21000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elegante y moderno<br>Hecho para karts de rosca 510<br>Es del tamaño de la palma de tu mano<br>Capacidad de la batería de 400 mAh<br>Carga micro USB<br>Indicadores de luz LED<br>Agujero para colgar</p>
+<p>Lo mejor de la batería <span data-mce-fragment="1">Yocan Kodo Box Mod </span>es que puedes utilizar casi cualquier tipo de cartucho ya que no tiene cámara y los cartuchos se colocan encima de la batería. Esto permite usar diferentes cartuchos con diferentes anchos y medidas, lo que lo libera de las restricciones de otros dispositivos. Fuma con estilo con su diseño compacto, elegante y sus colores sólidos. También es fácil de usar y operar, lo que la convierte en la mejor batería de cartucho para principiantes e incluso para usuarios avanzados que desean un vapeo rapido y práctico sin la molestia de usar dispositivos complicados.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8219835662626</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">21000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8219694858530</id>
+    <published>2023-04-10T14:30:58-06:00</published>
+    <updated>2023-04-10T14:30:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/yocan-evolve"/>
+    <title>Yocan evolve</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/yocan-evolve-battery-orange.jpg?v=1681158660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            20000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8219694858530</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">20000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8219670675746</id>
+    <published>2023-04-10T13:47:28-06:00</published>
+    <updated>2023-04-10T13:47:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/bateria-pulsar-gigi-h2o-510"/>
+    <title>Batería Pulsar GiGi H2O 510</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/V660BL_1800x1800_20bbacde-2340-4909-b046-188b571a4907.jpg?v=1681173004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            26000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Disfrute de la máxima versatilidad con la batería GiGi H2O. Mientras mantiene su discreto tamaño portátil, esta versión de nuestra popular batería GiGi le brinda la capacidad de conectarse directamente a su bong favorito de agua con el adaptador extraíble de 14mm y 19mm incluido. El puerto USB-C de carga rápida y la batería de 500 mAh lo mantienen activo todo el día para que pueda vapear mientras viaja o para relajarse en casa mientras.</p>
+<p><strong>Características:</strong><br>Perfil sigiloso: Solo mide 5cm<br>Batería de 500 mAh<br>Roscado 510<br>Función de precalentamiento<br>Voltaje Variable (2.6V, 3.4V y 4.0V)<br>Carga rápida USB-C<br>Adaptador para bong de 14/19 mm (acrílico resistente al calor)<br>Funciona con cartuchos 510 de 0,5 ml y 1,0 ml (no incluidos)<br>6 meses de garantía</p>
+<p><br><strong>Contenido de la caja:</strong><br>Batería de voltaje variable de 500 mAh<br>Cable cargador USB-C<br>2 adaptadores macho para bong de 14 y 19 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8219670675746</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">26000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8219585184034</id>
+    <published>2023-04-10T11:05:37-06:00</published>
+    <updated>2023-04-10T11:05:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/bateria-pulsar-gigi"/>
+    <title>Batería Pulsar GiGi 510</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/SA1986TD_900x_55bcba11-1d42-4479-944f-903fb3672445.jpg?v=1681146339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            26950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">¡Con solo 5 cm de altura, el vaporizador Pulsar GiGi tiene un desempeño sorprendente para un vaporizador de ese tamaño! Con su batería de larga duración de 500 mAh, el Pulsar GiGi nunca te defraudará. Sus 3 configuraciones de voltaje variable y la función de precalentamiento le permiten personalizar su experiencia a la perfección, y las luces LED lo alertan sobre cambios de voltaje y batería baja.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8219585184034</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">26950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8218900463906</id>
+    <published>2023-04-09T19:36:16-06:00</published>
+    <updated>2023-04-09T19:36:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/limpiador-formula-420-original"/>
+    <title>Limpiador Formula 420 Original</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/61gFq2j39XL._AC_SS450.jpg?v=1681090578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            26000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8218900463906</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">26000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8218897645858</id>
+    <published>2023-04-09T19:27:13-06:00</published>
+    <updated>2023-04-09T19:27:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/gas-butano-para-rellenar-encendedores"/>
+    <title>Gas butano para rellenar encendedores</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/z2_4.jpg?v=1681090035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            6000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8218897645858</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">6000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8215982407970</id>
+    <published>2023-04-07T13:15:57-06:00</published>
+    <updated>2023-04-07T13:15:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/tectonic9-grinder-auto-dispensador-%E2%9A%99%EF%B8%8F-%F0%9F%94%A5%F0%9F%98%AE-%F0%9F%92%A8"/>
+    <title>Grinder Tectonic9 con auto dispensador 😲</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/products/Tectonic9-Gray-080321-2000-01_2000x_668056d1-bce0-4ebd-ae61-e780efe8251f.jpg?v=1680894960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            45000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>🔥 Diseñado para la portabilidad y adecuado para entornos exteriores.</p>
+<p><br><span data-mce-fragment="1">🔥 </span>Motor de vibración incorporado optimizado a la frecuencia de vibración perfecta.</p>
+<p><br><span data-mce-fragment="1">🔥 </span>Ventana de visualización con luz LED para verificar la cantidad de hierba almacenada.</p>
+<p><br><span data-mce-fragment="1">🔥 </span>La puerta dispensadora deslizable almacena de forma segura la hierba.</p>
+<p><br><span data-mce-fragment="1">🔥 </span>28 dientes para moler en forma de diamante fabricados con CNC para obtener una hierba molida perfectamente esponjosa.</p>
+<p><br><span data-mce-fragment="1">🔥 </span>Cuerpo de aleación de aluminio anodizado de grado espacial, agarre esmerilado texturizado con un elegante acabado mate.</p>
+<p><br><span data-mce-fragment="1">🔥 </span>Interfaz fácil de usar con un botón.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8215982407970</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">45000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

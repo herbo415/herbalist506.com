@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://herbalist506.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://herbalist506.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://herbalist506.com/collections/flores.atom"/>
+  <title>Smoke Shop</title>
+  <updated>2023-07-12T18:06:21-06:00</updated>
+  <author>
+    <name>Smoke Shop</name>
+  </author>
+  <entry>
+    <id>https://herbalist506.com/products/8385527120162</id>
+    <published>2023-07-12T18:06:21-06:00</published>
+    <updated>2023-07-12T18:06:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/bubble-gum-cbd-1gramo"/>
+    <title>Bubble Gum CBD - 1gramo</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/files/bubble-16-9.jpg?v=1698548372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            11950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Aquellos que disfrutan del<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">cannabis de la vieja escuela</strong>, encontrarán en estas flores un sabor de 5 estrellas.</p>
+<p data-mce-fragment="1">Combinación peculiar de aromas con matices afrutados, notas agridulces, terrosas y amaderadas.</p>
+<p data-mce-fragment="1">La ganadora de varias cannabis cups, llega ahora en su versión «light» para deleitarnos con su dulce fragancia a chicle.</p>
+<div data-mce-fragment="1" bis_skin_checked="1"><strong>Bubble Gum</strong></div>
+<div data-mce-fragment="1" bis_skin_checked="1"><strong>THC 0,2%</strong></div>
+<div data-mce-fragment="1" bis_skin_checked="1"><strong>CBD 11%</strong></div>
+<div data-mce-fragment="1" bis_skin_checked="1"><strong>Sativa</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8385527120162</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">11950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8300589580578</id>
+    <published>2023-05-30T13:36:19-06:00</published>
+    <updated>2023-05-30T13:36:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/remedy-cbd-pre-roll"/>
+    <title>REMEDY CBD PRE-ROLL - 1 Gramo</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/files/sw-preroll.jpg?v=1685475381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            11950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Este pre-roll de Remedy CBD es una excelente cepa nocturna con reputación de relajar el cuerpo y ayudar con todo lo que la vida te depara.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8300589580578</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">11950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8300578111778</id>
+    <published>2023-05-30T13:23:11-06:00</published>
+    <updated>2023-05-30T13:23:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/ambrosia-haze"/>
+    <title>Ambrosia Haze - 1 Gramo</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/files/Ambrosia-Haze-23-1024x1024.jpg?v=1685474592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            12900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Un híbrido de Suver Haze cultivado en interior, Ambrosia Haze es una cepa embriagadora que brinda una calma tranquila para ayudar a calmar su mente y su cuerpo. Relájese y descanse.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8300578111778</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">12900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8254265590050</id>
+    <published>2023-05-02T22:22:34-06:00</published>
+    <updated>2023-05-02T22:22:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/remedy-cbd"/>
+    <title>Remedy CBD - 1 Gramo</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/files/Remedy-23-1024x1024.jpg?v=1683087755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            11000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Remedy es una excelente cepa nocturna con reputación de relajar el cuerpo y ayudar con todo lo que la vida te depara.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8254265590050</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">11000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8254264934690</id>
+    <published>2023-05-02T22:19:36-06:00</published>
+    <updated>2023-05-02T22:19:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/rainbow-sherbet-cbd"/>
+    <title>Rainbow Sherbet CBD - 1 Gramo</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/files/Rainbow-Sherbet-23-1024x1024.jpg?v=1683087578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            13900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Una flor encantadora para cualquier momento, perfecta para su próximo proyecto creativo.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8254264934690</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">13900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8254264017186</id>
+    <published>2023-05-02T22:18:16-06:00</published>
+    <updated>2023-05-02T22:18:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/jumble-cookie-cbd"/>
+    <title>Jumble Cookie CBD - 1 Gramo</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/files/Jumble-Cookie-23-1024x1024.jpg?v=1683087498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            11000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8254264017186</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">11000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://herbalist506.com/products/8254261133602</id>
+    <published>2023-05-02T22:12:24-06:00</published>
+    <updated>2023-05-02T22:12:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://herbalist506.com/products/bubba-kush-cbd"/>
+    <title>Bubba Kush CBD - 1 Gramo</title>
+    <s:type></s:type>
+    <s:vendor>Smoke Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/2891/1906/files/Bubba-Kush-23-1024x1024.jpg?v=1683087145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Smoke Shop<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            13000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bubba Kush es una opción relajante para la noche y se destaca como una verdadera variedad de cáñamo con dominancia índica.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://herbalist506.com/products/8254261133602</id>
+      <title>Default Title</title>
+      <s:price currency="CRC">13000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
