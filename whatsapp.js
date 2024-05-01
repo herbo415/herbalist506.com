@@ -1,5 +1,5 @@
 (function () {
-    const config = {"enabled":true,"general":{"phoneNumber":"50661803642","prefilledMessage":{"enabled":false,"text":"Hey there, I have a question!"}},"appearance":{"type":"logoCircleButton","agentImage":null,"buttonText":null,"placement":{"position":"bottomRight","spacing":{"left":16,"right":16,"bottom":16}},"visibility":{"showOnMobile":true,"showOnDesktop":true}},"enhancements":{"notificationBadge":{"enabled":false,"count":1},"greetingMessage":{"enabled":false,"text":"Hi, how can I help you?"}},"developers":{"customCSS":false}};
+    const config = {"enabled":true,"general":{"phoneNumber":"50661700011","prefilledMessage":{"enabled":false,"text":"Hey there, I have a question!"}},"appearance":{"type":"logoCircleButton","agentImage":null,"buttonText":null,"placement":{"position":"bottomRight","spacing":{"left":16,"right":16,"bottom":16}},"visibility":{"showOnMobile":true,"showOnDesktop":true}},"enhancements":{"notificationBadge":{"enabled":false,"count":1},"greetingMessage":{"enabled":false,"text":"Hi, how can I help you?"}},"developers":{"customCSS":false}};
 
     if (window.eazeappsWhatsAppChatButtonLoaded) return;
     window.eazeappsWhatsAppChatButtonLoaded = true;
